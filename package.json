@@ -1,0 +1,37 @@
+{
+  "name": "dp-stream",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancepartyonline/stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancepartyonline/stream/issues"
+  },
+  "homepage": "https://github.com/dancepartyonline/stream#readme",
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-healthcheck": "^0.1.0",
+    "fs": "^0.0.1-security",
+    "glob": "^10.2.6",
+    "joi": "^17.9.2",
+    "module-alias": "^2.2.2",
+    "path": "^0.12.7",
+    "signale": "^1.4.0"
+  },
+  "_moduleDirectories": [
+    "lib"
+  ]
+}
