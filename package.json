@@ -31,6 +31,9 @@
     "path": "^0.12.7",
     "signale": "^1.4.0"
   },
+  "_moduleAliases": {
+    "config/sku-constants": "config/sku-constants.js"
+  },
   "_moduleDirectories": [
     "lib"
   ]

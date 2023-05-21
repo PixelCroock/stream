@@ -5,7 +5,11 @@
         "paths": {
             "*": [
                 "./lib/*"
+            ],
+            "config/*": [
+                "./config/*"
             ]
         }
-    }
+    },
+    "exclude": ["node_modules"]
 }
